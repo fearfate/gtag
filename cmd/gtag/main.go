@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/wolfogre/internal/gtag"
+	"github.com/fearfate/gtag/internal/gtag"
 )
 
 var (
