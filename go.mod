@@ -1,4 +1,4 @@
-module github.com/wolfogre/gtag
+module github.com/fearfate/gtag
 
 go 1.15
 
